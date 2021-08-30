@@ -16,7 +16,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
   
 ### Scripts
 <!-- tils starts -->
-[Searching all columns of a table in Datasette](https://til.simonwillison.net/datasette/search-all-columns-trick) - 2021-08-23
+[Aws CICD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25
 <!-- blog ends -->
  
  ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
