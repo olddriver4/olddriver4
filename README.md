@@ -6,13 +6,16 @@
 - [FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01  
 - [FAQ - security - record](https://github.com/olddriver4/Ops-security-record/blob/main/README.md) - 2019-03-12
 - [Learning-document](https://github.com/olddriver4/Learning-document) - 2020-05-05
-- [terraform how to use](https://github.com/olddriver4/terraform-blog) - 2021-03-30  
+- [Terraform how to use](https://github.com/olddriver4/terraform-blog) - 2021-03-30  
+- [Gitlab & jira & wiki-backup](https://note.youdao.com/ynoteshare1/index.html?id=7d8f78edb57fcd69fdf93744aedf834c&type=note) - 2020-05-18
 <!-- blog ends -->
 
 ### Project
 <!-- tils starts -->
-- [jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01  
+- [Jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01  
 - [Wife rotating photo album](https://github.com/olddriver4/Promotional-album) - 2021-01-23
+- [Grafana mail weekly](https://github.com/olddriver4/grafana-mail-weekly) - 2021-03-05
+- [devops and clouds and monitor and backup and install in Scripts](https://github.com/olddriver4/Scipts-all) - 2021-08-25
 <!-- blog ends -->
   
 ### Scripts
