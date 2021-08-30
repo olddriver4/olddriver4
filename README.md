@@ -21,7 +21,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 我叫李猛，是一名运维开发工程师，一直从事互联网行业 saas领域&金融领域，专注于Devops & 云原生，熟悉Shell & Py & Go。
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="360" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="370" />
 
 ### ⚡ Technologies
 
