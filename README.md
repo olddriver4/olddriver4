@@ -27,12 +27,12 @@
 - [Jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01  
 - [Wife rotating photo album](https://github.com/olddriver4/Promotional-album) - 2021-01-23
 - [Grafana mail weekly](https://github.com/olddriver4/grafana-mail-weekly) - 2021-03-05
-- [devops and clouds and monitor and backup and install in Scripts](https://github.com/olddriver4/Scipts-all) - 2021-08-25
 <!-- blog ends -->
   
 ### Scripts
 <!-- tils starts -->
 - [Aws CICD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25  
+- [devops and clouds and monitor and backup and install in Scripts](https://github.com/olddriver4/Scipts-all) - 2021-08-25
 <!-- blog ends -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="250" />
