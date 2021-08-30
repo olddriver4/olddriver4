@@ -9,7 +9,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Project
 <!-- tils starts -->
-[Searching all columns of a table in Datasette](https://til.simonwillison.net/datasette/search-all-columns-trick) - 2021-08-23
+[jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01
 <!-- blog ends -->
   
 ### Scripts
