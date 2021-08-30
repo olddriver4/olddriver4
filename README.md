@@ -35,9 +35,8 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
 ![](https://github-readme-stats.vercel.app/api?username=olddriver4&theme=dark)
-```
+
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
