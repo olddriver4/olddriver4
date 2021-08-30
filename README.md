@@ -39,8 +39,14 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Ali Cloud](https://img.shields.io/badge/Ali%20Cloud-black?style=flat-square&logo=Ali-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana)
+![ELK](https://img.shields.io/badge/-ELK-E34A86?style=flat-square&logo=ELK)
+![Loki](https://img.shields.io/badge/-Loki-00599C?style=flat-square&logo=Loki)
+![Devops](https://img.shields.io/badge/-Devops-E34F26?style=flat-square&logo=Devops&logoColor=white)
+![Ansible-playbook](https://img.shields.io/badge/-Ansible-playbook-1572B6?style=flat-square&logo=Ansible-playbook)
+![Nginx](https://img.shields.io/badge/-Nginx-007ACC?style=flat-square&logo=Nginx)
 
 📈 my github stats
 <!--START_SECTION:waka-->
