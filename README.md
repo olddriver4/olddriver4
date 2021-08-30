@@ -36,7 +36,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 <br />
 
-我叫李猛(https://github.com/olddriver4)，是一名运维开发工程师，一直从事互联网行业，saas领域&金融领域，专注于Devops & 云原生，熟悉Shell & Py & Go。
+我叫李猛，是一名运维开发工程师，一直从事互联网行业，saas领域&金融领域，专注于Devops & 云原生，熟悉Shell & Py & Go。
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
