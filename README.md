@@ -33,7 +33,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 
-📊 **this week i spent my time on:**
+📈 my github stats
 <!--START_SECTION:waka-->
 ![](https://github-readme-stats.vercel.app/api?username=olddriver4&theme=synthwave)
 
@@ -50,8 +50,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 663 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
