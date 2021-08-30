@@ -4,7 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Blog
 <!-- blog starts -->
-[Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions](https://github.com/olddriver4/terraform-blog) - 2021-06-30
+[Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions](https://github.com/olddriver4/terraform-blog) - 2021-03-30
 <!-- blog ends -->
 
 ### Project
