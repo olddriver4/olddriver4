@@ -36,9 +36,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.82 % 
-JSX          2 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.73 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+![](https://github-readme-stats.vercel.app/api?username=olddriver4&theme=dark)
 ```
 <!--END_SECTION:waka-->
 
