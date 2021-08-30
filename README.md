@@ -46,6 +46,6 @@
 <!--START_SECTION:waka-->
 ![](https://github-readme-stats.vercel.app/api?username=olddriver4&theme=synthwave)
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="100" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300" />
 
 <!--END_SECTION:waka-->
