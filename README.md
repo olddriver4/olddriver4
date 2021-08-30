@@ -20,7 +20,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 <!-- blog ends -->
  
  ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-我叫李猛，是一名运维开发工程师，一直从事互联网行业 saas领域&金融领域，专注于Devops & 云原生，熟悉Shell & Py & Go。
+我叫李猛，是一名运维开发工程师，一直从事互联网行业，专注于Devops & 云原生，熟悉Shell & Py & Go。
 
 
   
