@@ -45,7 +45,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 ![ELK](https://img.shields.io/badge/-ELK-E34A86?style=flat-square&logo=ELK)
 ![Loki](https://img.shields.io/badge/-Loki-00599C?style=flat-square&logo=Loki)
 ![Devops](https://img.shields.io/badge/-Devops-E34F26?style=flat-square&logo=Devops&logoColor=white)
-![Ansible-playbook](https://img.shields.io/badge/-Ansible-playbook-1572B6?style=flat-square&logo=Ansible-playbook)
+![Ansible-playbook](https://img.shields.io/badge/-Ansible_playbook-1572B6?style=flat-square&logo=Ansible-playbook)
 ![Nginx](https://img.shields.io/badge/-Nginx-007ACC?style=flat-square&logo=Nginx)
 
 📈 my github stats
