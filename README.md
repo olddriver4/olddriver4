@@ -10,6 +10,7 @@
 ### Project
 <!-- tils starts -->
 - [jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01  
+- [Wife rotating photo album](https://github.com/olddriver4/Promotional-album) - 2021-01-23
 <!-- blog ends -->
   
 ### Scripts
