@@ -36,9 +36,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+我叫李猛(https://github.com/olddriver4)，是一名运维开发工程师，一直从事互联网行业，saas领域&金融领域，专注于Devops & 云原生，熟悉Shell & Py & Go。
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
