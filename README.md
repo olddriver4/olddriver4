@@ -37,7 +37,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 ![K8s](https://img.shields.io/badge/-K8s-black?style=flat-square&logo=k8s)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Ali Cloud](https://img.shields.io/badge/Ali%20Cloud-black?style=flat-square&logo=Ali-cloud)
+![Aliyun Cloud](https://img.shields.io/badge/Aliyun%20Cloud-black?style=flat-square&logo=Aliyun-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus)
