@@ -2,27 +2,6 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
-<!-- recent_releases starts -->
-[datasette-verify 0.1](https://github.com/simonw/datasette-verify/releases/tag/0.1) - 2021-08-28
-
-[datasette 0.59a2](https://github.com/simonw/datasette/releases/tag/0.59a2) - 2021-08-28
-
-[evernote-to-sqlite 0.3.2](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.2) - 2021-08-26
-
-[sqlite-utils 3.17](https://github.com/simonw/sqlite-utils/releases/tag/3.17) - 2021-08-24
-
-[healthkit-to-sqlite 1.0.1](https://github.com/dogsheep/healthkit-to-sqlite/releases/tag/1.0.1) - 2021-08-20
-
-[twitter-to-sqlite 0.21.4](https://github.com/dogsheep/twitter-to-sqlite/releases/tag/0.21.4) - 2021-08-20
-
-[datasette-block-robots 1.0](https://github.com/simonw/datasette-block-robots/releases/tag/1.0) - 2021-08-19
-
-[datasette-debug-asgi 1.1](https://github.com/simonw/datasette-debug-asgi/releases/tag/1.1) - 2021-08-17
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="34%">
-
 ### On my blog
 <!-- blog starts -->
 [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions](http://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/) - 2021-08-28
