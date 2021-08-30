@@ -4,6 +4,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 ### Blog
 <!-- blog starts -->
+[FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01
 [terraform how to use](https://github.com/olddriver4/terraform-blog) - 2021-03-30
 <!-- blog ends -->
 
