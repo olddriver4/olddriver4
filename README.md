@@ -22,7 +22,7 @@
 
 ### ⚡ Technologies
 
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
+![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
