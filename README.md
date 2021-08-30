@@ -3,19 +3,18 @@
 
 ### Blog
 <!-- blog starts -->
-[FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01
-  
-[terraform how to use](https://github.com/olddriver4/terraform-blog) - 2021-03-30
+- [FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01  
+- [terraform how to use](https://github.com/olddriver4/terraform-blog) - 2021-03-30  
 <!-- blog ends -->
 
 ### Project
 <!-- tils starts -->
-[jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01
+- [jenkins pipline views and script](https://github.com/olddriver4/jenkins-pipline) - 2020-06-01  
 <!-- blog ends -->
   
 ### Scripts
 <!-- tils starts -->
-[Aws CICD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25
+- [Aws CICD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25  
 <!-- blog ends -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="250" />
