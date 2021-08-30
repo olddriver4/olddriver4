@@ -2,7 +2,7 @@ Currently working on [Datasette](https://datasette.io/) and associated projects.
 
 <table><tr><td valign="top" width="33%">
 
-### On my blog
+### Blog
 <!-- blog starts -->
 [Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions](http://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/) - 2021-08-28
 
