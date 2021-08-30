@@ -1,5 +1,3 @@
-<table><tr><td valign="top" width="33%">
-
 ### Blog
 <!-- blog starts -->
 [FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01
