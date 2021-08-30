@@ -4,6 +4,7 @@
 ### Blog
 <!-- blog starts -->
 - [FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01  
+- [FAQ - security - record](https://github.com/olddriver4/Ops-security-record/blob/main/README.md) - 2019-03-12
 - [terraform how to use](https://github.com/olddriver4/terraform-blog) - 2021-03-30  
 <!-- blog ends -->
 
