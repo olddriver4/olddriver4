@@ -1,3 +1,6 @@
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+我叫李猛，是一名运维开发工程师，一直从事互联网行业，专注于Devops & 云原生，熟悉Shell & Py & Go。
+
 ### Blog
 <!-- blog starts -->
 [FAQ - devops - record](https://github.com/olddriver4/FAQ-Devops) - 2018-01-01
@@ -14,11 +17,6 @@
 <!-- tils starts -->
 [Aws CICD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25
 <!-- blog ends -->
- 
- ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-我叫李猛，是一名运维开发工程师，一直从事互联网行业，专注于Devops & 云原生，熟悉Shell & Py & Go。
-
-
   
   
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300" />
