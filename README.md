@@ -4,6 +4,7 @@
 ### Blog
 <!-- blog starts -->
 - [FAQ - K8S - record](https://github.com/olddriver4/FAQ-K8S) - to date 
+- [FAQ - DB - record](https://github.com/olddriver4/FQA-DB) - to date
 - [FAQ - security - record](https://github.com/olddriver4/Ops-security-record/blob/main/README.md) - to date  
 - [Documentation](https://github.com/olddriver4/Learning-document) - to date  
 - [AWS-Autoscaling & Alarm Notification](http://note.youdao.com/noteshare?id=6af5196a58d04efb4a5607924a27f419&sub=4C33C26C19B84E22B03E5EF9359ECA9E) - 2019-05-16
