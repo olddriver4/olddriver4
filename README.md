@@ -28,6 +28,7 @@
 - [rotating photo album](https://github.com/olddriver4/Promotional-album) - 2021-01-23
 - [Grafana mail weekly](https://github.com/olddriver4/grafana-mail-weekly) - 2021-03-05
 - [http api metrics](https://github.com/olddriver4/api_metrics) - 2021-10-28
+- [pipline-library in code](https://github.com/olddriver4/pipline-library) - 2021-12-2
 <!-- blog ends -->
   
 ### Scripts
