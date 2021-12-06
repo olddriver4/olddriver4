@@ -34,7 +34,7 @@
 ### Scripts
 <!-- tils starts -->
 - [Aws CICD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25
-- [Script all](https://github.com/olddriver4/scipts-all  - to date
+- [Script all](https://github.com/olddriver4/scipts-all)  - to date
 <!-- blog ends -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="250" />
