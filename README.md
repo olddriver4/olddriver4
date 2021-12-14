@@ -29,8 +29,6 @@
 - [Script all](https://github.com/olddriver4/scipts-all)  - to date
 <!-- scripts ends -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="250" />
-
 ### ⚡ Technologies
 
 ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell)
