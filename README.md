@@ -55,8 +55,4 @@
 ![Ansible-playbook](https://img.shields.io/badge/-Ansible_playbook-1572B6?style=flat-square&logo=Ansible-playbook)
 ![Nginx](https://img.shields.io/badge/-Nginx-007ACC?style=flat-square&logo=Nginx)
 
-📈 my github stats
-<!--START_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api?username=olddriver4&theme=synthwave)
-
 <!--END_SECTION:waka-->
