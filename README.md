@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is Li Meng and I am an operation and maintenance engineer. I have been working in the Internet industry, focusing on SRE, Devops, and cloud native. The following is my technology stack.
+My name is Li Meng, I am an operation and maintenance engineer. I have been working in the Internet industry, focusing on SRE, Devops, and cloud native. The following is my technology stack.
 
 ### Case
 <!-- case starts -->
