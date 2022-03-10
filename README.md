@@ -29,6 +29,7 @@ My name is Li Meng, I am an operation and maintenance engineer. I have been work
 <!-- scripts starts -->
 - [Aws CD - Codedeploy](https://github.com/olddriver4/Codedeploy-Script) - 2019-01-25
 - [Script all](https://github.com/olddriver4/scipts-all)  - to date
+- [Ansible playbook]( https://github.com/olddriver4/ansible-playbook.git)  - to date
 <!-- scripts ends -->
 
 ### ⚡ Technologies
